@@ -1,0 +1,8 @@
+Hello every body
+
+In this task ,I applied kmeans cluster algorithm .
+
+that is it!
+
+
+Thanks
